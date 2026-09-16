@@ -11,8 +11,8 @@ Trata-se de um projeto estruturado de forma evolutiva, no qual novas análises s
 - DataStudio
 - DBEAVER
 - CSV
+- xlsx.
 - GitHub
-
 
 # AC1 — Análise de Vendas
 
@@ -29,4 +29,6 @@ A primeira entrega do projeto tem como foco a análise de desempenho da loja Met
 - Estado;
 - Ano de Venda;
 - Marca.
-Os indicado3res e gráficos são atualizados dinamicamente conforme os filtros selecionados
+- 
+Os indicadores e gráficos são atualizados dinamicamente conforme os filtros selecionados
+
