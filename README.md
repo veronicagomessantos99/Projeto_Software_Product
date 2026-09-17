@@ -28,7 +28,7 @@ A primeira entrega do projeto tem como foco a análise de desempenho da loja Met
 
 - Estado;
 - Ano de Venda;
-- Marca.
+
   
 Os indicadores e gráficos são atualizados dinamicamente conforme os filtros selecionados
 
