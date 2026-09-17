@@ -29,6 +29,13 @@ A primeira entrega do projeto tem como foco a análise de desempenho da loja Met
 - Estado;
 - Ano de Venda;
 - Marca.
-- 
+  
 Os indicadores e gráficos são atualizados dinamicamente conforme os filtros selecionados
 
+# Acompanhamento do Projeto 
+
+- [Dashboard](https://datastudio.google.com/u/0/reporting/6301f0b5-2655-46c3-8531-57d378943655/page/p_g3h1rvct6d)
+
+- [Board](https://github.com/users/veronicagomessantos99/projects/1/views/1?layout=board&pane=issue&itemId=248816981&issue=veronicagomessantos99%7CProjeto_Software_Product%7C1)
+
+- [Video](https://drive.google.com/file/d/1ePDOe3cUvRoM5pBFFXUtDadOMgL4t818/view?usp=drive_link)
